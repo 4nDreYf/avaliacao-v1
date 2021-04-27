@@ -1,0 +1,8 @@
+com\br\orange\service\impl\UserSerciceImpl.class
+com\br\orange\service\UserService.class
+com\br\orange\controller\UserController.class
+com\br\orange\controller\impl\UserControllerImpl.class
+com\br\orange\model\BaseEntity.class
+com\br\orange\model\User.class
+com\br\orange\repository\UserRepository.class
+com\br\orange\OrangeApplication.class
